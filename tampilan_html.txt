@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css" />
+    <title>Tugas UTS Pengembangan Program Web</title>
+</head>
+<body class="body">
+    <div class="container">
+        <div>
+            <h1 class="h2" align="center">Selamat Datang di Website Kami</h1>
+            <p class="palagrap" align="center">Hi.. Saya Reza Firmansyah, salah satu mahasiswa AMIK YPAT Purwakarta. Terima Kasih sudah mengunjungi Website Saya, Website ini dibuat</p>
+            <p class="palagrap" align="center">untuk memenuhi tugas UTS Praktikum Pengembangan Konten Web.</p>
+            
+        </div>
+    </div>   
+    <footer class="footer">
+        <p>Hak Cipta © 2024. Dibuat oleh [Reza Firmansyah].</p>
+    </footer>
+</body>
+</html>
